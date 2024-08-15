@@ -3,7 +3,9 @@ logo: "/images/pic2.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist, Product Development. PhD in life sciences. 
   <br><br>
-  <a href="https://www.linkedin.com/in/nedajabbari/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/nedajabbari/">LinkedIn Profile</a>
+  <a href="https://www.ncbi.nlm.nih.gov/myncbi/1Lw0VrvN78-5U/bibliography/public/">Publications in Genomics and Systems Biology</a> 
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
