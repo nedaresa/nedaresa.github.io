@@ -2,10 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Data Science 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Modeling bacterial subgrouping with multiclass logistic regression (Python, Pandas, sklearn, Git, Matplotlib, Seaborn)](https://medium.com/@neda.jabbari/multiclass-logistic-regression-and-genomics-ec9b3a872001/)
+<img src="images/logreg1.png?raw=true"/>
+<img src="images/logreg2.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
