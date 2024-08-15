@@ -4,7 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   Data Scientist, Product Development. PhD in life sciences. 
   <br><br>
   <a href="https://www.linkedin.com/in/nedajabbari/">LinkedIn Profile</a>
-  <a href="https://www.ncbi.nlm.nih.gov/myncbi/1Lw0VrvN78-5U/bibliography/public/">Publications in Genomics and Systems Biology</a> 
+  <br>
+  <a href="https://www.ncbi.nlm.nih.gov/myncbi/1Lw0VrvN78-5U/bibliography/public/">Research Publications</a> 
 
   
 remote_theme: pages-themes/minimal@v0.2.0
