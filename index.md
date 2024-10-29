@@ -1,8 +1,12 @@
-## Portfolio
+### Bacterial classification using genomic features
 
 ---
 
-### Data Science 
+[Modeling bacterial subgrouping with multiclass logistic regression (Python, Pandas, sklearn, Git, Matplotlib, Seaborn)](https://medium.com/@neda.jabbari/multiclass-logistic-regression-and-genomics-ec9b3a872001/)
+<img src="images/logreg1.png?raw=true"/>
+<img src="images/logreg2.png?raw=true"/>
+
+### Bacterial classification using genomic features 
 
 [Modeling bacterial subgrouping with multiclass logistic regression (Python, Pandas, sklearn, Git, Matplotlib, Seaborn)](https://medium.com/@neda.jabbari/multiclass-logistic-regression-and-genomics-ec9b3a872001/)
 <img src="images/logreg1.png?raw=true"/>
