@@ -12,7 +12,7 @@
 
 ### Dominant color detection in flower images
 
-[Clustering colors in RGB space and detecting dominant cluster based on the min distance from the basic colors in RGB (Python, OpenCV, sklearn, Git, data source: iNaturalist](https://medium.com/@neda.jabbari/bouquetfy-part-1-find-the-dominant-color-in-the-image-8e27a3e4cb88)
+[Clustering colors in RGB space and detecting dominant cluster based on the min distance from the basic colors in RGB (Python, OpenCV, sklearn, Git)](https://medium.com/@neda.jabbari/bouquetfy-part-1-find-the-dominant-color-in-the-image-8e27a3e4cb88)
 <img src="images/dominantcolor1.jpg?raw=true"/>
 
 ---
