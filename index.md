@@ -7,7 +7,7 @@
 [Developed recommender.py to recommend clothing brands to the user based on their favorite book (OpenAI, Python, Pandas, sklearn, Git, sqlite3, Matplotlib)](https://github.com/nedaresa/clothing_brand_recommender)
 <br><br>
 <p align="center">
-  <img width="700" src="https://github.com/nedaresa/nedaresa.github.io/blob/master/images/recom1.png">
+  <img width="700" src="images/recom1.png?raw=true"/>
 </p>
 
 <p align="center">
