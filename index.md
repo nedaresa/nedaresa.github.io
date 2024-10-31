@@ -22,7 +22,7 @@
 [Clustering colors in RGB space and detecting dominant cluster based on the min distance from the basic colors in RGB (Python, OpenCV, sklearn, Git)](https://medium.com/@neda.jabbari/bouquetfy-part-1-find-the-dominant-color-in-the-image-8e27a3e4cb88)
 <br><br>
 <p align="center">
-  <img width="800" src="images/dominantcolor1.jpg?raw=true"/>
+  <img width="800" src="images/dominantcolor_all.png?raw=true"/>
 </p>
 
 
