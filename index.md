@@ -9,7 +9,7 @@
 <p align="center">
   <img width="700" src="https://github.com/nedaresa/nedaresa.github.io/blob/master/images/recom1.png">
 </p>
-<br>
+
 <p align="center">
   <img width="700" src="images/recom2.png?raw=true"/>
 </p>
