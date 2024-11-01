@@ -17,9 +17,11 @@
 
 ---
 
-### Dominant color detection in flower images
+### Bouquetfy: A Machine Learning Pipeline for Location Recommendations
 
-[Detecting image's dominant color cluster using K-means, distance measures and a pre-defined set of basic colors (Python, OpenCV, sklearn, Git, Matplotlib)](https://medium.com/@neda.jabbari/bouquetfy-part-1-find-the-dominant-color-in-the-image-8e27a3e4cb88)
+[Conceived and built a machine learning pipeline that receives user's choice of flower colors and shows a map of locations where flowers in those colors are likely to grow (geospatial analysis, K-means, KDE, sum of ranks, Python, pandas, sklearn, OpenCV, Git, Matplotlib, AWS)](https://github.com/nedaresa/bouquetfy)
+
+[Bouquetfy detects image's dominant color cluster distance measures and a pre-defined set of basic colors](https://medium.com/@neda.jabbari/bouquetfy-part-1-find-the-dominant-color-in-the-image-8e27a3e4cb88)
 <br><br>
 <p align="center">
   <img width="800" src="images/dominantcolor_all.png?raw=true"/>
