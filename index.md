@@ -1,5 +1,11 @@
 ## Applied Machine Learning
 
+
+### Document Identification 
+[DocBot gets image of your document (passport, EAD, or driver's license), identifies the document type and extracts key information using multimodal GPT-4.1 API](https://github.com/nedaresa/DocBot)
+
+---
+
 ### Clothing brand recommender
 
 ---
